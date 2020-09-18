@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Reyes"
 
 theme = "hugo-theme-minos"
+
+googleAnalytics = "UA-120209672-1"
