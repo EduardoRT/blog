@@ -1,0 +1,5 @@
+baseURL = "https://reyes.im/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+theme = "hugo-theme-minos"
